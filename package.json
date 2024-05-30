@@ -1,0 +1,24 @@
+{
+  "name": "mrashid25-to-do-list",
+  "version": "2.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "mrashid25-to-do-list": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
